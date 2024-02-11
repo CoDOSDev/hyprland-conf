@@ -1,9 +1,0 @@
-# Required Apps
-
-# pacman
-sudo pacman -S pipewire wireplumber kitty thunar xdg-desktop-portal-hyprland polkit-kde-agent waybar wofi \
-materia-gtk-theme arc-icon-theme ttf-cascadia-code adobe-source-code-pro-fonts swaybg \
-qt5-wayland qt6-wayland qt5ct qt6ct pipewire-pulse
-
-# yay (AUR)
-yay -S swaync
